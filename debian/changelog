@@ -1,3 +1,9 @@
+xfce4-whiskermenu-plugin (1.1.1-0ppa1~quantal1+aurex1) precise; urgency=low
+
+  * Recompiled for aurex (xfce 4.10)
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Mon, 26 Aug 2013 02:32:41 +0200
+
 xfce4-whiskermenu-plugin (1.1.1-0ppa1~quantal1) quantal; urgency=low
 
   * New upstream release
