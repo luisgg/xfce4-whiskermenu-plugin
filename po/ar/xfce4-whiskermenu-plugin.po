@@ -1,0 +1,192 @@
+# Arabic translation of xfce4-whiskermenu-plugin.
+# Copyright (C) 2013 Graeme Gott
+# This file is distributed under the same license as the xfce4-whiskermenu-plugin package.
+#
+# Translators:
+# Karim Oulad Chalha <herr.linux88@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-whiskermenu-plugin 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-08 15:36+0000\n"
+"PO-Revision-Date: 2013-08-07 15:21+0000\n"
+"Last-Translator: Karim Oulad Chalha <herr.linux88@gmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: src/applications_page.cpp:299
+msgid "All"
+msgstr "كل"
+
+#: src/configuration_dialog.cpp:54
+msgid "Whisker Menu"
+msgstr "قائمة Whisker"
+
+#: src/configuration_dialog.cpp:68
+msgid "Appearance"
+msgstr "مظهر"
+
+#: src/configuration_dialog.cpp:73
+msgid "Show applications by _name"
+msgstr "عرض التطبيقات حسب _الإسم"
+
+#: src/configuration_dialog.cpp:79
+msgid "Show application _descriptions"
+msgstr "عرض _وصف التطبيقات"
+
+#: src/configuration_dialog.cpp:88
+msgid "Ite_m icon size:"
+msgstr "ح_جم أيقونة العنصر:"
+
+#: src/configuration_dialog.cpp:108
+msgid "Categ_ory icon size:"
+msgstr "_حجم أيقونة الصنف:"
+
+#: src/configuration_dialog.cpp:125
+msgid "Panel Button"
+msgstr "زر الشريط"
+
+#: src/configuration_dialog.cpp:133
+msgid "Di_splay:"
+msgstr "عر_ض:"
+
+#: src/configuration_dialog.cpp:139
+msgid "Icon"
+msgstr "أيقونة"
+
+#: src/configuration_dialog.cpp:140
+msgid "Title"
+msgstr "عنوان"
+
+#: src/configuration_dialog.cpp:141
+msgid "Icon and title"
+msgstr "أيقونة و عنوان"
+
+#: src/configuration_dialog.cpp:151
+msgid "_Title:"
+msgstr "عن_وان:"
+
+#: src/configuration_dialog.cpp:166
+msgid "_Icon:"
+msgstr "_أيقونة:"
+
+#: src/configuration_dialog.cpp:182
+msgid "Behavior"
+msgstr "سلوك"
+
+#: src/configuration_dialog.cpp:187
+msgid "Switch categories by _hovering"
+msgstr "تبديل الأصناف ح_سب الترفيف"
+
+#: src/configuration_dialog.cpp:209
+msgid "Select An Icon"
+msgstr "إختر أيقونة"
+
+#: src/favorites_page.cpp:73
+msgid "Sort Alphabetically A-Z"
+msgstr "رتب أبجديا أ-ي"
+
+#: src/favorites_page.cpp:79
+msgid "Sort Alphabetically Z-A"
+msgstr "رتب أبجديا ي-أ"
+
+#: src/icon_size.cpp:50
+msgid "Very Small"
+msgstr "صغير جدا"
+
+#: src/icon_size.cpp:51
+msgid "Smaller"
+msgstr "أصغر"
+
+#: src/icon_size.cpp:52
+msgid "Small"
+msgstr "صغير"
+
+#: src/icon_size.cpp:53
+msgid "Normal"
+msgstr "عادي"
+
+#: src/icon_size.cpp:54
+msgid "Large"
+msgstr "كبير"
+
+#: src/icon_size.cpp:55
+msgid "Larger"
+msgstr "أكبر"
+
+#: src/icon_size.cpp:56
+msgid "Very Large"
+msgstr "كبير جدا"
+
+#: src/launcher.cpp:263
+#, c-format
+msgid "Failed to execute command \"%s\"."
+msgstr "فشل تنفيذ الأمر \"%s\"."
+
+#: src/menu.cpp:101
+msgid "All Settings"
+msgstr "كل الإعدادات"
+
+#: src/menu.cpp:104
+msgid "Lock Screen"
+msgstr "قفل الشاشة"
+
+#: src/menu.cpp:107
+msgid "Log Out"
+msgstr "تسجيل الخروج"
+
+#: src/menu.cpp:121
+msgid "Favorites"
+msgstr "مفضلات"
+
+#: src/menu.cpp:127
+msgid "Recently Used"
+msgstr "مستعملة حديثا"
+
+#: src/menu.cpp:743
+msgid "Failed to open settings manager."
+msgstr "فشل فتح مدير الإعدادات."
+
+#: src/menu.cpp:757
+msgid "Failed to lock screen."
+msgstr "فشل إغلاق الشاشة."
+
+#: src/menu.cpp:771
+msgid "Failed to log out."
+msgstr "فشل تسجيل الخروج."
+
+#: src/page.cpp:182
+msgid "Add to Favorites"
+msgstr "أضف إلى المفضلات"
+
+#: src/page.cpp:190
+msgid "Remove From Favorites"
+msgstr "حذف من المفضلات"
+
+#: src/page.cpp:197
+msgid "Add to Desktop"
+msgstr "أضف إلى سطح المكتب"
+
+#: src/page.cpp:201
+msgid "Add to Panel"
+msgstr "أضف إلى الشريط"
+
+#: src/page.cpp:291
+msgid "Unable to add launcher to desktop."
+msgstr "عاجز عن إضافة المطلقة إلى سطح المكتب."
+
+#: src/page.cpp:330 src/page.cpp:339
+msgid "Unable to add launcher to panel."
+msgstr "عاجز عن إضافة المطلقة إلى الشريط."
+
+#: src/panel_plugin.cpp:150
+msgid "Applications Menu"
+msgstr "قائمة التطبيقات"
+
+#: src/recent_page.cpp:71
+msgid "Clear Recently Used"
+msgstr "محو المستعملة حديثا"
